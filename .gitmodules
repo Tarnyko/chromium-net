@@ -1,3 +1,8 @@
 [submodule "tools"]
 	path = tools
 	url = https://github.com/Tarnyko/chromium-tools
+	branch = 49.0.2593.0
+[submodule "sdch/open-vcdiff"]
+	path = sdch/open-vcdiff
+	url = https://github.com/google/open-vcdiff
+	branch = 21d7d0b9c3d0c3ccbdb221c85ae889373f0a2a58
